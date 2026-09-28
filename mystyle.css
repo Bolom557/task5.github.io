@@ -1,0 +1,64 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+<!-- good stuff right here -->
+p.a {
+  font-family: "Times New Roman", Times, serif;
+}
+div.a {
+  font-size: 15px;
+}
+
+h2 {
+  color: orange;
+}
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+div.a {
+  font-size: 15px;
+}
+
+div.b {
+  font-size: large;
+}
+
+div.c {
+  font-size: 150%;
+}
+
+body {
+  color: green;
+}
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+}
+a {
+  color: hotpink;
+  background-color: yellow;
+  font-weight: bold;
+}
+
+
+a{
+color: #f00;
+background-color: #f00;
+height: 5px;
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
